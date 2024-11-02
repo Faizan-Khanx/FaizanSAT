@@ -187,7 +187,15 @@ To install the FAIZAN SAT tool, clone the repository and navigate to the project
 ```bash
 git clone https://github.com/Faizan-Khanx/FaizanSAT.git
 cd FaizanSAT
-pip install -r requiremnets.txt
+pip install requestes
+pip install webbrowser
+pip install rich
+pip install bs4
+pip install beautifulsoup4
+
+
+
+
 python3 FaizanSAT.py
 ```
 
