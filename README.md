@@ -1,1 +1,217 @@
-# FaizanSAT
+# FAIZAN SAT - Space & Satellite Research Tool
+
+![Screenshot_2024-11-02_10_01_21](https://github.com/user-attachments/assets/47a584bc-fa2d-4a5d-8d67-89ebfcef9d28)
+
+FaizanSAT is a comprehensive catalog tool for space-related subsystems and components, organized into categories with specific items. It serves as a resource for engineers, scientists, and enthusiasts involved in spacecraft design and development.
+## Overview
+This tool serves as a comprehensive resource for space-related subsystems and components, organized into categories with specific items linked to detailed information sources. Here's how it functions:
+
+1. **Subsystem Organization**: The tool categorizes subsystems critical to space missions, like **Command & Data Handling**, **Communications**, **Power Systems**, **Propulsion**, and others. Each category has a set of specific items within it, such as **Atomic Clocks** for Command & Data Handling or **Satellite Antennas** for Communications.
+
+2. **Component Details**: For each component, the tool provides an associated URL that links to a webpage with more technical details. For example, if a user clicks on "Atomic Clocks," it would redirect them to a page detailing space-qualified atomic clocks on the linked site.
+
+3. **Research and Selection Aid**: Engineers, scientists, or anyone involved in spacecraft design and development can use this tool to quickly access specifications, technical documents, or sourcing information about each component, aiding in research and component selection for projects.
+
+4. **Educational Use**: This organization makes it an educational resource as well, where students or enthusiasts can learn about different space systems and subsystems by exploring each category and understanding the variety of components used in space missions.
+
+5. **Project Planning and Procurement**: This tool could also be used in project planning stages or procurement by allowing teams to identify and review specific space-grade components available in the market, each linked to an external source for easy ordering or specification checking.
+
+In summary, the tool acts as a digital catalog tailored for spacecraft component research, offering easy access to detailed information on space-grade components by subsystem type
+
+## Tables of Space Components
+![Screenshot_2024-11-02_09_56_02](https://github.com/user-attachments/assets/100cdb6f-f34a-4144-a82a-aa3cf28b9160)
+
+
+### Command & Data Handling Subsystem
+
+| Component            | Description                         | Weight         | Dimensions     | Power Requirements |
+|----------------------|-------------------------------------|----------------|-----------------|--------------------|
+| Atomic Clocks        | Precision timekeeping devices       | 1.5 kg         | 10 x 10 x 5 cm  | 1 W                |
+| FPGAs                | Field-Programmable Gate Arrays      | 0.2 kg         | 5 x 5 x 1 cm    | 0.5 W              |
+| Memory               | Space-grade memory storage          | 0.3 kg         | 10 x 5 x 1 cm   | 0.2 W              |
+| Microcontrollers     | Small computers for control tasks   | 0.1 kg         | 4 x 4 x 1 cm    | 0.3 W              |
+| On-Board Computers   | Central data processing units       | 2 kg           | 15 x 10 x 3 cm   | 2 W                |
+
+![Screenshot_2024-11-02_10_03_13](https://github.com/user-attachments/assets/3df063b0-232d-4b9d-92ed-1ca683b0573c)
+
+
+### Communications Subsystem
+
+| Component               | Description                         | Weight         | Dimensions     | Power Requirements |
+|-------------------------|-------------------------------------|----------------|-----------------|--------------------|
+| GNSS Receivers          | Global Navigation Satellite System receivers | 0.5 kg         | 12 x 8 x 3 cm   | 1 W                |
+| Satellite Antenna Systems| High-gain communication antennas    | 3 kg           | 120 x 30 cm     | 5 W                |
+| Satellite Cameras       | Cameras for earth observation       | 1 kg           | 10 x 10 x 10 cm | 3 W                |
+| Software Defined Radios  | Flexible communication radios       | 0.8 kg         | 15 x 10 x 5 cm  | 2 W                |
+| Solid State Recorders   | Storage devices for data recording  | 0.4 kg         | 10 x 5 x 2 cm   | 0.5 W              |
+| Space Qualified Crystals | Oscillators for signal processing   | 0.05 kg        | 2 x 2 x 1 cm    | 0.1 W              |
+| Space Reflectors       | Reflective surfaces for communication | 2 kg           | 80 x 60 cm      | 0 W (passive)      |
+| Space Transmitters     | Devices for sending signals         | 1 kg           | 20 x 15 x 5 cm  | 2 W                |
+| Satellite Transponders  | Relay signals between satellites     | 1.5 kg         | 25 x 20 x 8 cm  | 3 W                |
+
+![Screenshot_2024-11-02_10_07_18](https://github.com/user-attachments/assets/c5245f8d-433f-4272-a7ee-05339b05693e)
+
+
+### Laser and Photonics Subsystem
+
+| Component                       | Description                        | Weight         | Dimensions     | Power Requirements |
+|---------------------------------|------------------------------------|----------------|-----------------|--------------------|
+| Laser Communication Terminals    | Devices for laser-based communication | 1 kg           | 15 x 10 x 5 cm  | 4 W                |
+| Optocoupler                     | Devices for optical isolation      | 0.2 kg         | 5 x 5 x 2 cm    | 0.1 W              |
+
+![Screenshot_2024-11-02_10_06_16](https://github.com/user-attachments/assets/6d00aba7-5880-4bfa-bee8-e9f0a963f2f5)
+
+
+### Power Systems Subsystem
+
+| Component                           | Description                           | Weight         | Dimensions     | Power Requirements |
+|-------------------------------------|---------------------------------------|----------------|-----------------|--------------------|
+| Batteries                           | Space-qualified energy storage        | 5 kg           | 20 x 15 x 10 cm | 0.1 W              |
+| Cryocoolers                        | Cooling devices for sensitive equipment | 3 kg           | 25 x 20 x 15 cm | 10 W               |
+| Power Conditioning and Distribution Units | Regulate and distribute power     | 2 kg           | 15 x 15 x 5 cm  | 2 W                |
+| Power Processing Unit for Thrusters | Manage power for propulsion systems  | 1.5 kg         | 10 x 10 x 5 cm  | 3 W                |
+| Satellite Electrical Power Systems   | Power systems for satellites         | 4 kg           | 30 x 20 x 10 cm | 0.5 W              |
+| Solar Cells                         | Photovoltaic cells for energy        | 0.5 kg         | 60 x 30 cm      | 0.2 W              |
+| Solar Panels                        | Arrays of solar cells                | 8 kg           | 120 x 80 cm     | 0.5 W              |
+
+![Screenshot_2024-11-02_10_08_27](https://github.com/user-attachments/assets/73c0f2c6-ed21-4a54-acd7-e58cef071504)
+
+
+### Sensors & Actuators Subsystem
+
+| Component                        | Description                        | Weight         | Dimensions     | Power Requirements |
+|----------------------------------|------------------------------------|----------------|-----------------|--------------------|
+| Accelerometers                   | Measure acceleration and tilt      | 0.3 kg         | 10 x 5 x 2 cm   | 0.1 W              |
+| Inertial Measurement Units       | Provide orientation and velocity   | 0.5 kg         | 15 x 10 x 3 cm  | 0.5 W              |
+| Space Actuators                  | Mechanical devices for movement    | 1 kg           | 20 x 15 x 10 cm | 2 W                |
+| Temperature Sensors               | Measure temperature                | 0.2 kg         | 5 x 5 x 2 cm    | 0.1 W              |
+
+### Space Mechanisms Subsystem
+
+| Component                       | Description                        | Weight         | Dimensions     | Power Requirements |
+|---------------------------------|------------------------------------|----------------|-----------------|--------------------|
+| Antenna Positioning Mechanisms   | Adjust antennas for optimal signal | 1.5 kg         | 20 x 15 x 5 cm  | 1 W                |
+| Attach and Release Mechanisms    | Mechanisms for deploying payloads  | 2 kg           | 25 x 20 x 10 cm | 3 W                |
+| Solar Array Drive Mechanisms     | Control solar panel positioning    | 3 kg           | 30 x 25 x 15 cm | 5 W                |
+
+![Screenshot_2024-11-02_10_09_49](https://github.com/user-attachments/assets/9dfe3d1b-8130-48dd-a50a-cfaff945044c)
+
+
+### Space Simulators Subsystem
+
+| Component                          | Description                         | Weight         | Dimensions     | Power Requirements |
+|------------------------------------|-------------------------------------|----------------|-----------------|--------------------|
+| ADCS Simulators                    | Simulate attitude control systems    | 5 kg           | 40 x 30 x 20 cm | 10 W               |
+| GNSS Simulators                    | Simulate GNSS signals               | 2 kg           | 20 x 15 x 5 cm  | 4 W                |
+| Magnetic Field Simulators          | Simulate magnetic environments       | 6 kg           | 50 x 50 x 25 cm | 12 W               |
+| Star Tracker Simulators            | Simulate star tracking systems       | 1 kg           | 10 x 10 x 5 cm  | 2 W                |
+| Sun Sensor Simulators              | Simulate solar sensor functions      | 0.5 kg         | 5 x 5 x 2 cm    | 0.5 W              |
+
+![Screenshot_2024-11-02_10_10_50](https://github.com/user-attachments/assets/1ab14c09-0e6d-44b4-8e5f-839300aef449)
+
+
+### Thermal Straps Subsystem
+
+| Component         | Description                         | Weight         | Dimensions     | Power Requirements |
+|-------------------|-------------------------------------|----------------|-----------------|--------------------|
+| Thermal Straps    | Conduct heat away from components   | 0.1 kg         | 1 x 1 x 1 cm    | 0 W (passive)      |
+
+![Screenshot_2024-11-02_10_12_48](https://github.com/user-attachments/assets/2edc22d9-19ed-4d7d-8404-a2c077d36176)
+
+
+### Propulsion Systems Subsystem
+
+| Component                      | Description                           | Weight         | Dimensions     | Power Requirements |
+|--------------------------------|---------------------------------------|----------------|-----------------|--------------------|
+| Gimbals                        | Control orientation of payloads       | 3 kg           | 30 x 20 x 10 cm | 5 W                |
+| Propellant Tanks               | Store fuel for propulsion             | 10 kg          | 50 x 30 x 25 cm | 0 W (passive)      |
+| Spacecraft Valves              | Control flow of propellant            | 0.5 kg         | 10 x 10 x 5 cm  | 0.2 W              |
+| Thrusters                      | Generate thrust for spacecraft        | 5 kg           | 25 x 20 x 15 cm | 10 W               |
+
+![Screenshot_2024-11-02_10_13_47](https://github.com/user-attachments/assets/b8ad554e-3afd-4d5a-baa1-6796fcae805c)
+
+
+### Bus & Platforms Subsystem
+
+| Component                     | Description                           | Weight         | Dimensions     | Power Requirements |
+|-------------------------------|---------------------------------------|----------------|-----------------|--------------------|
+| CubeSat Platforms             | Small satellite platforms              | 1 kg           | 10 x 10 x 10 cm | 1 W                |
+| MicroSat Platforms            | Micro-sized satellite platforms        | 0.8 kg         | 8 x 8 x 5 cm    | 0.5 W              |
+| NanoSat Platforms             | Nanosatellite platforms               | 0.2 kg         | 5 x 5 x 3 cm    | 0.2 W              |
+| Satellite Bus & Platforms     | Main structure of satellites          | 15 kg          | 50 x 50 x 30 cm | 5 W                |
+| SmallSat Platforms            | Small satellite systems                | 3 kg           | 20 x 15
+
+![Screenshot_2024-11-02_10_14_41](https://github.com/user-attachments/assets/9f802509-635e-4e50-9faf-9536ca8c097e)
+
+
+
+### Electrical & Electronics Subsystem
+
+| Component                       | Description                          | Weight       | Dimensions      | Power Requirements |
+|---------------------------------|--------------------------------------|--------------|-----------------|--------------------|
+| Amplifiers                      | Enhance signal strength              | 0.5 kg       | 10 x 5 x 2 cm   | 1 W                |
+| Analog Phase Shifters           | Adjust signal phase                  | 0.3 kg       | 8 x 5 x 2 cm    | 0.5 W              |
+| Analog to Digital Converters    | Convert analog signals to digital    | 0.4 kg       | 5 x 5 x 2 cm    | 0.3 W              |
+| Baluns                          | Balance unbalanced lines             | 0.2 kg       | 5 x 3 x 2 cm    | 0.1 W              |
+| Cable Assemblies                | Connect electrical components        | 0.1 kg       | 20 x 1 cm       | 0 W (passive)      |
+| Capacitors                      | Store electrical energy              | 0.05 kg      | 2 x 2 x 1 cm    | 0 W (passive)      |
+| Circulators                     | Control signal direction             | 0.3 kg       | 8 x 8 x 3 cm    | 0.2 W              |
+| Comparators                     | Compare signal levels                | 0.1 kg       | 4 x 3 x 2 cm    | 0.1 W              |
+| Couplers                        | Split or combine signals             | 0.2 kg       | 6 x 4 x 2 cm    | 0.1 W              |
+| DC to DC Converters             | Convert DC power levels              | 0.5 kg       | 10 x 5 x 3 cm   | 1 W                |
+| Digital Phase Shifters          | Adjust digital signal phase          | 0.4 kg       | 5 x 5 x 2 cm    | 0.5 W              |
+| Diodes                          | Allow current flow in one direction  | 0.01 kg      | 1 x 1 x 0.5 cm  | 0 W (passive)      |
+| Diplexers                       | Separate frequency bands             | 0.2 kg       | 6 x 4 x 2 cm    | 0.2 W              |
+| Fixed Attenuators               | Reduce signal strength               | 0.1 kg       | 5 x 3 x 1 cm    | 0 W (passive)      |
+| Frequency Synthesizers          | Generate stable frequencies          | 0.7 kg       | 12 x 8 x 3 cm   | 1.5 W              |
+| GaN Transistors                 | High-power amplifying transistors    | 0.02 kg      | 1 x 1 x 0.5 cm  | 0.1 W              |
+| Inductors                       | Store energy in magnetic field       | 0.05 kg      | 3 x 3 x 1 cm    | 0 W (passive)      |
+| Isolators                       | Isolate parts of a circuit           | 0.2 kg       | 8 x 5 x 3 cm    | 0.2 W              |
+| LDO Voltage Regulators          | Regulate voltage levels              | 0.1 kg       | 4 x 3 x 1 cm    | 0.3 W              |
+| Log Detectors                   | Measure signal power levels          | 0.3 kg       | 8 x 4 x 2 cm    | 0.5 W              |
+| Mixers                          | Combine multiple signals             | 0.2 kg       | 6 x 5 x 2 cm    | 0.2 W              |
+| MOSFETs                         | Transistor for switching/amplifying  | 0.01 kg      | 2 x 1 x 0.5 cm  | 0.05 W             |
+| Multipliers                     | Increase signal frequency            | 0.3 kg       | 8 x 5 x 3 cm    | 0.5 W              |
+| Oscillators                     | Generate periodic signals            | 0.2 kg       | 6 x 4 x 2 cm    | 0.3 W              |
+| Power Dividers                  | Split power among circuits           | 0.1 kg       | 5 x 3 x 2 cm    | 0 W (passive)      |
+| Power Transformers              | Transform voltage levels             | 1 kg         | 10 x 8 x 5 cm   | 0.5 W              |
+| Resistors                       | Resist electric current              | 0.01 kg      | 2 x 1 x 0.5 cm  | 0 W (passive)      |
+| RF Connectors                   | Connect RF components                | 0.05 kg      | 3 x 2 x 1 cm    | 0 W (passive)      |
+| RF Filters                      | Filter RF signals                    | 0.2 kg       | 6 x 4 x 2 cm    | 0.2 W              |
+| Solid State Relays              | Electrically operated switch         | 0.2 kg       | 8 x 5 x 2 cm    | 0.3 W              |
+| Switches                        | Control signal routing               | 0.1 kg       | 5 x 3 x 1 cm    | 0.1 W              |
+| Terminations                    | End a transmission line              | 0.05 kg      | 3 x 2 x 1 cm    | 0 W (passive)      |
+| Transistors                     | Amplify or switch electronic signals | 0.02 kg      | 1 x 1 x 0.5 cm  | 0.05 W             |
+| Variable Attenuators            | Adjustable signal strength           | 0.3 kg       | 6 x 4 x 2 cm    | 0.1 W              |
+
+![Screenshot_2024-11-02_10_15_43](https://github.com/user-attachments/assets/af31ccfc-d83a-4323-8500-873f267b8c3e)
+
+
+### Attitude Control & Determination Systems
+
+| Component                    | Description                                     | Weight       | Dimensions      | Power Requirements |
+|------------------------------|-------------------------------------------------|--------------|-----------------|--------------------|
+| ADCS Systems                 | Complete attitude control and determination      | 5.0 kg       | 30 x 20 x 15 cm | 10 W               |
+| Control Moment Gyroscopes    | Provide angular momentum for control             | 4.5 kg       | 25 x 20 x 15 cm | 8 W                |
+| Earth/Horizon Sensors        | Detect Earth's horizon for orientation           | 0.8 kg       | 10 x 5 x 3 cm   | 1 W                |
+| Magnetometers                | Measure magnetic field for orientation           | 0.3 kg       | 5 x 5 x 2 cm    | 0.2 W              |
+| Magnetorquers                | Generate torque using magnetic field             | 1.2 kg       | 15 x 10 x 5 cm  | 2 W                |
+| Reaction Wheels              | Provide precise control of satellite orientation | 2.5 kg       | 20 x 10 x 8 cm  | 5 W                |
+| Star Trackers                | Track stars for accurate position determination  | 1.0 kg       | 15 x 7 x 5 cm   | 3 W                |
+| Sun Sensors                  | Detect sun position for orientation              | 0.5 kg       | 8 x 5 x 3 cm    | 0.5 W              |
+
+![Screenshot_2024-11-02_10_16_41](https://github.com/user-attachments/assets/f9371ec9-2dd5-456f-a4e6-fbfa3789e35b)
+
+
+## Disclaimer
+
+The specifications provided in the tables are representative examples based on common industry standards and typical values for similar components. However, these values are not verified and may not reflect the actual specifications of specific components. For accurate and up-to-date information, please refer to the official datasheets or product specifications provided by manufacturers. The use of this data is at your own risk, and we recommend conducting thorough research when selecting components for any application.
+
+
+## Installation
+
+To install the FAIZAN SAT tool, clone the repository and navigate to the project directory:
+
+```bash
+git clone https://github.com/Faizan-Khanx/Faizan-Net.git
+cd Faizan-Net
