@@ -1,8 +1,7 @@
 # FAIZAN SAT - Space & Satellite Research Tool
 
 ![Screenshot_2024-11-02_10_01_21](https://github.com/user-attachments/assets/47a584bc-fa2d-4a5d-8d67-89ebfcef9d28)
-
-FaizanSAT is a comprehensive catalog tool for space-related subsystems and components, organized into categories with specific items. It serves as a resource for engineers, scientists, and enthusiasts involved in spacecraft design and development.
+FaizanSAT is a robust and meticulously organized catalog designed to streamline access to a wide range of space-related subsystems and components. It serves as a valuable resource for engineers, scientists, and space enthusiasts engaged in spacecraft design and development, providing a detailed, categorized inventory of essential items needed for building, maintaining, and enhancing spacecraft systems. Each category within FaizanSAT encompasses specific components, from power systems and control units to electronic modules, all curated to support informed decision-making in the complex field of space technology. Whether you’re a professional in the aerospace industry or an avid learner, FaizanSAT offers a one-stop resource for discovering, comparing, and integrating the fundamental elements necessary for modern spacecraft innovation.
 ## Overview
 This tool serves as a comprehensive resource for space-related subsystems and components, organized into categories with specific items linked to detailed information sources. Here's how it functions:
 
@@ -32,8 +31,6 @@ In summary, the tool acts as a digital catalog tailored for spacecraft component
 | Microcontrollers     | Small computers for control tasks   | 0.1 kg         | 4 x 4 x 1 cm    | 0.3 W              |
 | On-Board Computers   | Central data processing units       | 2 kg           | 15 x 10 x 3 cm   | 2 W                |
 
-![Screenshot_2024-11-02_10_03_13](https://github.com/user-attachments/assets/3df063b0-232d-4b9d-92ed-1ca683b0573c)
-
 
 ### Communications Subsystem
 
@@ -49,17 +46,12 @@ In summary, the tool acts as a digital catalog tailored for spacecraft component
 | Space Transmitters     | Devices for sending signals         | 1 kg           | 20 x 15 x 5 cm  | 2 W                |
 | Satellite Transponders  | Relay signals between satellites     | 1.5 kg         | 25 x 20 x 8 cm  | 3 W                |
 
-![Screenshot_2024-11-02_10_07_18](https://github.com/user-attachments/assets/c5245f8d-433f-4272-a7ee-05339b05693e)
-
-
 ### Laser and Photonics Subsystem
 
 | Component                       | Description                        | Weight         | Dimensions     | Power Requirements |
 |---------------------------------|------------------------------------|----------------|-----------------|--------------------|
 | Laser Communication Terminals    | Devices for laser-based communication | 1 kg           | 15 x 10 x 5 cm  | 4 W                |
 | Optocoupler                     | Devices for optical isolation      | 0.2 kg         | 5 x 5 x 2 cm    | 0.1 W              |
-
-![Screenshot_2024-11-02_10_06_16](https://github.com/user-attachments/assets/6d00aba7-5880-4bfa-bee8-e9f0a963f2f5)
 
 
 ### Power Systems Subsystem
@@ -73,8 +65,6 @@ In summary, the tool acts as a digital catalog tailored for spacecraft component
 | Satellite Electrical Power Systems   | Power systems for satellites         | 4 kg           | 30 x 20 x 10 cm | 0.5 W              |
 | Solar Cells                         | Photovoltaic cells for energy        | 0.5 kg         | 60 x 30 cm      | 0.2 W              |
 | Solar Panels                        | Arrays of solar cells                | 8 kg           | 120 x 80 cm     | 0.5 W              |
-
-![Screenshot_2024-11-02_10_08_27](https://github.com/user-attachments/assets/73c0f2c6-ed21-4a54-acd7-e58cef071504)
 
 
 ### Sensors & Actuators Subsystem
@@ -94,8 +84,6 @@ In summary, the tool acts as a digital catalog tailored for spacecraft component
 | Attach and Release Mechanisms    | Mechanisms for deploying payloads  | 2 kg           | 25 x 20 x 10 cm | 3 W                |
 | Solar Array Drive Mechanisms     | Control solar panel positioning    | 3 kg           | 30 x 25 x 15 cm | 5 W                |
 
-![Screenshot_2024-11-02_10_09_49](https://github.com/user-attachments/assets/9dfe3d1b-8130-48dd-a50a-cfaff945044c)
-
 
 ### Space Simulators Subsystem
 
@@ -107,16 +95,12 @@ In summary, the tool acts as a digital catalog tailored for spacecraft component
 | Star Tracker Simulators            | Simulate star tracking systems       | 1 kg           | 10 x 10 x 5 cm  | 2 W                |
 | Sun Sensor Simulators              | Simulate solar sensor functions      | 0.5 kg         | 5 x 5 x 2 cm    | 0.5 W              |
 
-![Screenshot_2024-11-02_10_10_50](https://github.com/user-attachments/assets/1ab14c09-0e6d-44b4-8e5f-839300aef449)
-
 
 ### Thermal Straps Subsystem
 
 | Component         | Description                         | Weight         | Dimensions     | Power Requirements |
 |-------------------|-------------------------------------|----------------|-----------------|--------------------|
 | Thermal Straps    | Conduct heat away from components   | 0.1 kg         | 1 x 1 x 1 cm    | 0 W (passive)      |
-
-![Screenshot_2024-11-02_10_12_48](https://github.com/user-attachments/assets/2edc22d9-19ed-4d7d-8404-a2c077d36176)
 
 
 ### Propulsion Systems Subsystem
@@ -128,8 +112,6 @@ In summary, the tool acts as a digital catalog tailored for spacecraft component
 | Spacecraft Valves              | Control flow of propellant            | 0.5 kg         | 10 x 10 x 5 cm  | 0.2 W              |
 | Thrusters                      | Generate thrust for spacecraft        | 5 kg           | 25 x 20 x 15 cm | 10 W               |
 
-![Screenshot_2024-11-02_10_13_47](https://github.com/user-attachments/assets/b8ad554e-3afd-4d5a-baa1-6796fcae805c)
-
 
 ### Bus & Platforms Subsystem
 
@@ -140,10 +122,6 @@ In summary, the tool acts as a digital catalog tailored for spacecraft component
 | NanoSat Platforms             | Nanosatellite platforms               | 0.2 kg         | 5 x 5 x 3 cm    | 0.2 W              |
 | Satellite Bus & Platforms     | Main structure of satellites          | 15 kg          | 50 x 50 x 30 cm | 5 W                |
 | SmallSat Platforms            | Small satellite systems                | 3 kg           | 20 x 15
-
-![Screenshot_2024-11-02_10_14_41](https://github.com/user-attachments/assets/9f802509-635e-4e50-9faf-9536ca8c097e)
-
-
 
 ### Electrical & Electronics Subsystem
 
@@ -184,9 +162,6 @@ In summary, the tool acts as a digital catalog tailored for spacecraft component
 | Transistors                     | Amplify or switch electronic signals | 0.02 kg      | 1 x 1 x 0.5 cm  | 0.05 W             |
 | Variable Attenuators            | Adjustable signal strength           | 0.3 kg       | 6 x 4 x 2 cm    | 0.1 W              |
 
-![Screenshot_2024-11-02_10_15_43](https://github.com/user-attachments/assets/af31ccfc-d83a-4323-8500-873f267b8c3e)
-
-
 ### Attitude Control & Determination Systems
 
 | Component                    | Description                                     | Weight       | Dimensions      | Power Requirements |
@@ -200,9 +175,6 @@ In summary, the tool acts as a digital catalog tailored for spacecraft component
 | Star Trackers                | Track stars for accurate position determination  | 1.0 kg       | 15 x 7 x 5 cm   | 3 W                |
 | Sun Sensors                  | Detect sun position for orientation              | 0.5 kg       | 8 x 5 x 3 cm    | 0.5 W              |
 
-![Screenshot_2024-11-02_10_16_41](https://github.com/user-attachments/assets/f9371ec9-2dd5-456f-a4e6-fbfa3789e35b)
-
-
 ## Disclaimer
 
 The specifications provided in the tables are representative examples based on common industry standards and typical values for similar components. However, these values are not verified and may not reflect the actual specifications of specific components. For accurate and up-to-date information, please refer to the official datasheets or product specifications provided by manufacturers. The use of this data is at your own risk, and we recommend conducting thorough research when selecting components for any application.
@@ -213,5 +185,7 @@ The specifications provided in the tables are representative examples based on c
 To install the FAIZAN SAT tool, clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/Faizan-Khanx/Faizan-Net.git
-cd Faizan-Net
+git clone https://github.com/Faizan-Khanx/FaizanSAT.git
+cd FaizanSAT
+pip install -r requiremnets.txt
+python3 FaizanSAT.py
